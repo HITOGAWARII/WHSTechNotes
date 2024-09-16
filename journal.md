@@ -13,3 +13,9 @@ flashlight, phone light or lightbulbs. it has a value called "Lux", collecting l
 These sensors can help with certain activities like tug of war game, the hot potato game and etc... 
 BOLT helps us learn more about coding and helps us understand its script, helping us to know how to code in computers and progress further.
 
+--
+
+# September 9, 2024
+
+We can solve issues with making our journals is by reading or listening to the instructons carefully,
+therefore; we can make our journals correctly and allowin mg the bot to be able to check our journals.
