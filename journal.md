@@ -18,4 +18,10 @@ BOLT helps us learn more about coding and helps us understand its script, helpin
 # September 9, 2024
 
 We can solve issues with making our journals is by reading or listening to the instructons carefully,
-therefore; we can make our journals correctly and allowin mg the bot to be able to check our journals.
+therefore; we can make our journals correctly and allowing the bot to be able to check our journals.
+
+--
+
+# September 27, 2024
+
+To run the code cleanly, you must check and watch out for warnings and errors to make sure the code runs smoothly. possible things can happen to the coding is causing the game to crash, experience errors and glitch. The important thing to make sure your code runs smoothly and stay all clean is to pay attention to what you're doing and always check for errors and warnings. that way would allow us to make a good habit out of it and always be able to run codes smoothly.
