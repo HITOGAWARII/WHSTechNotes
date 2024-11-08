@@ -30,3 +30,11 @@ To run the code cleanly, you must check and watch out for warnings and errors to
 # October 16, 2024
 
 Coding helps you improve on certain coding programs like Java, Python and all of the other programs. You'll be able to identify errors, bugs and issues...etc. 
+
+# November 8, 2024
+
+The importance of protecting our personal information is to protect people from doing such harmful things, hacking into our social medias, getting hold of our private files, photos and etc...
+to ensure that your information does not get too overshared, you share little information about yourself; not sharing too detailed as people can take ahold of that information and try something sketchy. you can share your age, carreer and what you do best in your carreer. anything else has to be shared with its own limit.
+Once, I have overshared my personal information; I have gotten harrassed for that information online, which is why I do not share information about myself unless asked. That gave me a lesson that I should not share my information deeply online.
+I try to balance out working spaces and my personal information by creating a profile for myself when I am in public, at work and etc. At work, I can share information about things such as carreers, businesses, companiee and such others.
+The way to protect your private information is to share less about yourself, be careful with the words you use online and on social medias and never share anything about where you live unless it's sharing your information about your business you work at.
