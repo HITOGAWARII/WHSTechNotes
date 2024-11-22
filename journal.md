@@ -38,3 +38,8 @@ to ensure that your information does not get too overshared, you share little in
 Once, I have overshared my personal information; I have gotten harrassed for that information online, which is why I do not share information about myself unless asked. That gave me a lesson that I should not share my information deeply online.
 I try to balance out working spaces and my personal information by creating a profile for myself when I am in public, at work and etc. At work, I can share information about things such as carreers, businesses, companiee and such others.
 The way to protect your private information is to share less about yourself, be careful with the words you use online and on social medias and never share anything about where you live unless it's sharing your information about your business you work at.
+
+# November 22, 2024
+
+The video game designing/coding program is an event where developers who specializes in coding in games such as Minecraft, Horror games, Online mulitplayer games, dress up games and etc... This game programming design is something we learn in computer science, coding languages. coding helps us create wonderful things, make websties, applications, games, amazing creations we know of that is on the internet.
+The game designing program helps you create unique games and make things move, well, not just move but function perfectly if tweaked its errors, bugs and etc... learning these things in computer science classes allow you to do these things, it's amazing how technology can evolve.
