@@ -6,7 +6,7 @@ Sphero BOLT.
 2. Another corner could be found at the top left corner.
 3. two more sensors could be found on the bottom.
 
-From what i understand, These sensors can help measure light, speed, and can pinpoint to north with the world's magneticism.
+From what i understand, These sensors can help measure light, speed,and can pinpoint to north with the world's magneticism.
 Sensors can help us learn about more things and help guide us as we understand little by little as we learn, The sensor gathers data because we
 use the program's built in coding blocks and we build them by tutorials or guides to help us. The light sensor detects ambient light from a
 flashlight, phone light or lightbulbs. it has a value called "Lux", collecting lights as protons.
@@ -46,4 +46,11 @@ The game designing program helps you create unique games and make things move, w
 
 # November 22, 2024
 
-This week we are celebrating Thanksgiving day which was to celebrate the harvest and other blessings. Americans generally believe that their Thanksgiving is modeled on a 1621 harvest feast shared by the English colonists (Pilgrims) of Plymouth and the Wampanoag people. A reason that led to the first thanksgiving was followed by a successful harvest in the autumn of 1621, the colonists decided to celebrate with a three-day festive of prayer. The 53 surviving are said to have eaten with 90 indigenous people in what became known as the first Thanksgiving. 
+This week we are celebrating Thanksgiving day which was to celebrate the harvest and other blessings. Americans generally believe that their Thanksgiving is modeled on a 1621 harvest feast shared by the English colonists (Pilgrims) of Plymouth and the Wampanoag people. A reason that led to the first thanksgiving was followed by a successful harvest in the autumn of 1621, the colonists decided to celebrate with a three-day festive of prayer. The 53 surviving are said to have eaten with 90 indigenous people in what became known as the first Thanksgiving.
+
+# December 9, 2024
+
+Brain rot is a term to use when people are so consumed into the content they have been exposed to and repeating the actions or words, examples are skibidi toilet... Brain rot is the most used word in all of 2024, why? because kids and teenagers themselves have been seeing content that's utterly ridiculous or hilarious.
+
+# December 2, 2024
+
