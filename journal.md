@@ -59,3 +59,11 @@ The rapid evolution of artificial intelligence (AI) technology is reshaping indu
 # December 16, 2024
 
 I am not looking forward to winter break. Why? 'Cause I don't have my phone! >:( My winter break is to "Draw" told by my guardians themselves, I cannot think of anything to draw because of artblock. I feel exhausted working and having to work at home again!! 
+
+# January 8, 2025
+
+I enjoyed doing projects or any other assignments that requires coding. As we contonue onto the next semester, I would like to learn how to use blender, unity and other programs that could be used to make a game. I'm interested on getting a certificate on coding as I plan to make a game in the future.
+
+# January 13, 2025
+
+The tech industry's pivot towards AI skills represents both a challenge and an opportunity for professionals. While AI technologies may render certain traditional roles obsolete, they simultaneously create new pathways for career advancement and innovation. ​By emphasizing AI skill development, continuous learning, and strategic networking, individuals can prepare themselves to thrive in an evolving job market that increasingly values adaptability and technological fluency.
