@@ -62,7 +62,7 @@ I am not looking forward to winter break. Why? 'Cause I don't have my phone! >:(
 
 # January 8, 2025
 
-I enjoyed doing projects or any other assignments that requires coding. As we contonue onto the next semester, I would like to learn how to use blender, unity and other programs that could be used to make a game. I'm interested on getting a certificate on coding as I plan to make a game in the future.
+I enjoyed doing projects or any other assignments that requires coding. As we continue onto the next semester, I would like to learn how to use blender, unity and other programs that could be used to make a game. I'm interested on getting a certificate on coding as I plan to make a game in the future.
 
 # January 13, 2025
 
