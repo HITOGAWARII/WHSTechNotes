@@ -72,3 +72,13 @@ The tech industry's pivot towards AI skills represents both a challenge and an o
 
 Government intervention can significantly impact technology companies and their users by imposing regulations that dictate how data is collected, stored, and shared. For instance, when a government raises national security concerns, it may lead to stricter compliance requirements, which can increase operational costs for companies. Users may experience changes in service availability or functionality, as companies may need to adapt to new regulations. This can create a tension between user experience and regulatory compliance, as companies strive to protect user data while also adhering to government mandates.
 To address security concerns while continuing to operate globally, companies like TikTok could implement data localization strategies. This involves storing user data within the country where it is collected, thereby reducing the risk of foreign access and enhancing user trust. By establishing local data centers and ensuring that data handling complies with local laws, TikTok can alleviate some of the national security concerns raised by governments. ​This approach not only addresses privacy issues but also demonstrates a commitment to respecting local regulations, which can foster better relationships with users and regulators alike.
+
+# January 29, 2025
+
+
+| Name     | Car             | Mistake                  |
+| :------- | :-------------- | :----------------------- |
+| Jimmy    | Honda Civic     | Drilled Hole In Gas Tank |
+| Kayla    | GMC Sierra      | Fixed Wrong Problem      |
+| Bart     | Toyota Corolla  | Left Stains On Carpet    |
+| Harrison | Subaru Forester | Left The Oil Cap Off     |
