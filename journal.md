@@ -98,3 +98,5 @@ The application would include features such as real-time player performance trac
 # February 18, 2025
 
 The most interesting thing I've learned about in this class is coding blocks,they have the most understanding yet complicated coding to begin with. Getting to coding can be confusing because you have to correct your coding, placements and alignments; interesting thing about why I decided to learn about code blocks is to understand its basics first before moving onto the newer stages of coding.
+
+# February 24, 2025
