@@ -103,3 +103,16 @@ The most interesting thing I've learned about in this class is coding blocks,the
 
 Technology can bridge generational language gaps by providing access to real-time translation and contextual information.AI-powered translation tools and chatbots can be integrated into communication platforms, offering instant definitions and explanations of slang terms. These tools could also provide cultural context and usage examples, helping adults understand how slang is used by young people in different situations. Furthermore, platforms could incorporate features that allow users to flag potentially offensive or inappropriate language, promoting respectful communication and cultural awareness.
 To maintain professionalism, these technologies should be used as educational resources rather than replacements for genuine human interaction. Professionals should prioritize building relationships with young people, actively listening to their perspectives, and demonstrating a willingness to learn. It is also crucial to recognize that slang is dynamic and context-dependent, and translations may not always be accurate or appropriate. Therefore, professionals should use technology to enhance their understanding but rely on their judgment and cultural awareness to ensure effective communication and build strong connections with youth.
+
+# March 4, 2025
+
+| Name     | Power                | Challenge             |
+| :------- | :------------------- | :-------------------- |
+| Zara     | Telekenesis          | Secure building       |
+| Aether   | Weather Manipulation | Prevent Assassination |
+| Thorne   | Invisibility         | Underwater rescue     |
+| Silver   | Mind Control         | Retrieve Stolen goods |
+| Tangier  | Shapeshifting        | Extract Prisoner      |
+
+# March 17, 2025
+
