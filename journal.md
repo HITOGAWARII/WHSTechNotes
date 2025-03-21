@@ -116,3 +116,4 @@ To maintain professionalism, these technologies should be used as educational re
 
 # March 17, 2025
 
+I've been on my chromebook that whole entire week because my phone was taken away. So far i've been watching new and old movies which made me understand them more than i was younger. :3
