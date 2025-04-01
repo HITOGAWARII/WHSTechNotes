@@ -122,3 +122,12 @@ I've been on my chromebook that whole entire week because my phone was taken awa
 
 The integration of advanced technologies like AI and AR is significantly transforming the March Madness experience, impacting both the excitement and accessibility of the tournament. While AI introduces a new layer of strategic analysis, social media and streaming services are revolutionizing fan engagement and the traditional viewing experience. AI's role in predicting March Madness outcomes, exemplified by tools like Microsoft Copilot and Perplexity AI, presents a dual impact on the tournament's appeal. On one hand, AI enhances the analytical depth and provides intriguing insights into team performances, player statistics, and potential upsets. AI-driven forecasts, such as Alabama's predicted victory in the 2025 tournament, spark discussions and offer fans new perspectives. 
 However, the increasing accuracy of AI predictions raises concerns about diminishing the unpredictability that makes March Madness thrilling. The element of surprise, with underdog teams and unexpected outcomes, is a key factor in fan engagement, and over-reliance on AI insights could reduce the excitement of bracket-building and game-watching. The debate continues whether AI-driven forecasts overshadow human intuition and the "human elements" that make sports exciting.
+
+# March 31, 2025
+
+For this upcoming staar testing i will take, i will do my best on the test
+I feel stressed, tired mentally and emotionally.
+school hasn't been that stressful.
+The things i could do to help my stress is by cleaning nonstop, drawing or listening to music.
+the one goal i have for the rest of the school year is passing my class and become a junior when the new school year starts.
+My online brother is the only one i could talk to when i'm feeling down, we've been through some problems online which made us closer than ever. i don't have any devices that can help me talk to him in any way which makes me sad.
