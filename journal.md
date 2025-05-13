@@ -131,3 +131,11 @@ school hasn't been that stressful.
 The things i could do to help my stress is by cleaning nonstop, drawing or listening to music.
 the one goal i have for the rest of the school year is passing my class and become a junior when the new school year starts.
 My online brother is the only one i could talk to when i'm feeling down, we've been through some problems online which made us closer than ever. i don't have any devices that can help me talk to him in any way which makes me sad.
+
+# May 13, 2025
+
+| Name   | Age |    Toy   |
+| :----- | :-- | :------- |
+| Max    |  3  |   Train  | 
+| Kylie  |  4  | Dinosaur |
+| Emma   |  5  | Plush Dog|
